@@ -20,7 +20,6 @@ class PostsIndex extends Component {
   }
 
   render() {
-    console.log(this.renderPosts());
     return (
       <div>
         <div className="text-xs-right">
